@@ -374,8 +374,8 @@
   "hud.kaleidoscope_grilling.seasoning.duration": "効果時間延長 · ドクダミの粉末 ×%s",
   "hud.kaleidoscope_grilling.seasoning.totem": "死の回避 · トーテムの粉末 ×%s",
   "hud.kaleidoscope_grilling.seasoning.vitality": "体力上限増加 · ドラゴンの卵の粉末 ×%s",
-  "hud.kaleidoscope_grilling.seasoning.numbness": "麻痺 · 花椒 ×%s（最低4個必要）",
-  "hud.kaleidoscope_grilling.seasoning.numbness_pending": "麻痺（未発動） · 花椒 ×%s/4",
+  "hud.kaleidoscope_grilling.seasoning.numbness": "痺れ · 花椒 ×%s（最低4個必要）",
+  "hud.kaleidoscope_grilling.seasoning.numbness_pending": "痺れ（未発動） · 花椒 ×%s/4",
 
   "container.kaleidoscope_grilling.rack_selection": "高機能調理ラックを選択",
   "container.kaleidoscope_grilling.advanced_rack_shortcut": "収納スペースを選択",
@@ -467,7 +467,7 @@
 
   "effect.kaleidoscope_grilling.heavy_metal": "重金属",
   "effect.kaleidoscope_grilling.heavy_metal_poisoning": "重金属中毒",
-  "effect.kaleidoscope_grilling.numb": "麻痺",
+  "effect.kaleidoscope_grilling.numb": "痺れ",
   "effect.kaleidoscope_grilling.dragon_blood": "竜の血",
   "effect.kaleidoscope_grilling.invincible": "無敵",
 
